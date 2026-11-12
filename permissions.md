@@ -1,0 +1,1 @@
+chmod is the linux command that allows for modifcation of a file's user permissions. For example: in numeric form the permissions 644 allows for the owner to read+write, while the group and others can only read. Permission 755 allows the owner to read+write+execute, and allows others to read+execute.
